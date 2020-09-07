@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        // п.1
         int[] m = new int[5];
         int i, sum=0;
         for(i=0; i<5; i++){
